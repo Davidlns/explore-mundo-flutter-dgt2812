@@ -5,6 +5,11 @@
 - Disciplina: DGT2812 Desenvolvimento de Aplicativos Moveis com Flutter
 - Projeto: Explore Mundo Flutter
 - Tipo: Trabalho pratico individual
+- Autor: David Lins do Amaral
+
+## Autoria
+
+Este projeto foi desenvolvido por David Lins do Amaral.
 
 ## Objetivo
 

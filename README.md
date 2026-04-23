@@ -2,6 +2,11 @@
 
 Projeto desenvolvido em Flutter como trabalho pratico da disciplina `DGT2812 Desenvolvimento de Aplicativos Moveis com Flutter`.
 
+## Autor
+
+- David Lins do Amaral
+- Projeto desenvolvido por David Lins do Amaral
+
 ## O que foi implementado
 
 - Estrutura inicial com `MaterialApp`, `Scaffold` e `AppBar`
