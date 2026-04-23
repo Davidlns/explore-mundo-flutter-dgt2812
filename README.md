@@ -19,6 +19,24 @@ Projeto desenvolvido em Flutter como trabalho pratico da disciplina `DGT2812 Des
 - Imagem de destaque carregada via `pubspec.yaml`
 - Organizacao final do corpo em `ListView`
 
+## Aderencia ao roteiro do projeto
+
+O desenvolvimento foi realizado com base no passo a passo descrito no material da pratica.
+Foram seguidos os elementos centrais do roteiro:
+
+- criacao do aplicativo em Flutter
+- estruturacao com `MaterialApp` e `Scaffold`
+- montagem da secao de titulo
+- montagem da secao de botoes
+- definicao da secao de texto
+- adicao da imagem `lake.jpg`
+- organizacao final do conteudo em `ListView`
+
+Depois de cumprir essa base, o projeto recebeu melhorias intencionais de interatividade
+e responsividade para aproximar a aplicacao do resultado esperado descrito no proprio
+enunciado. Essas melhorias nao substituem o que foi pedido; elas expandem a solucao de
+forma coerente com o tema da agencia Explore Mundo.
+
 ## Estrutura relevante
 
 - `lib/main.dart`: implementacao principal da interface

@@ -15,6 +15,23 @@ Este projeto foi desenvolvido por David Lins do Amaral.
 
 Desenvolver uma aplicacao Flutter seguindo o roteiro apresentado no material da pratica. O projeto foi construindo com base na sequencia proposta no documento: criacao do app, estrutura inicial, secao de titulo, secao de botoes, secao de texto, inclusao de imagem e organizacao final com `ListView`.
 
+## Observacao sobre fidelidade ao enunciado
+
+O projeto foi desenvolvido respeitando os requisitos centrais e o passo a passo
+apresentado no material. A estrutura-base solicitada no roteiro foi mantida como
+fundamento da aplicacao.
+
+As diferencas visuais e funcionais da versao final foram adicionadas de maneira
+proposital, com o objetivo de:
+
+- demonstrar autenticidade na solucao
+- melhorar a experiencia do usuario
+- tornar a interface mais responsiva
+- aproximar o projeto do trecho de resultados esperados presente no enunciado
+
+Assim, as melhorias implementadas nao descaracterizam a proposta original. Elas
+representam uma evolucao da estrutura pedida, mantendo fidelidade ao que foi solicitado.
+
 ## Solucao desenvolvida
 
 Foi criada uma aplicacao responsiva para a agencia de viagens Explore Mundo. A experiencia apresenta:
@@ -49,6 +66,22 @@ Foi criada uma aplicacao responsiva para a agencia de viagens Explore Mundo. A e
 7. Adicao da imagem `images/lake.jpg` como ativo no `pubspec.yaml`.
 8. Organizacao final do corpo da aplicacao com `ListView`.
 9. Expansao da solucao para incluir interatividade, responsividade e compartilhamento de comentarios.
+
+## Justificativa das melhorias implementadas
+
+Depois da construcao da base prevista no roteiro, foram adicionadas melhorias
+compatíveis com a contextualizacao e com os resultados esperados descritos no material.
+Entre essas melhorias estao:
+
+- barra de navegacao entre secoes
+- pesquisa de pacotes
+- exibicao de avaliacoes
+- formulario para comentarios
+- responsividade para diferentes tamanhos de tela
+
+Esses recursos foram incluidos para deixar claro que a solucao final preserva a base
+solicitada no projeto, mas tambem busca entregar uma experiencia mais completa e
+interativa para o usuario final.
 
 ## Recursos interativos adicionados
 
