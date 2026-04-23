@@ -17,12 +17,14 @@ Desenvolver uma aplicacao Flutter seguindo o roteiro apresentado no material da 
 
 ## Solucao desenvolvida
 
-Foi criada uma interface unica para a agencia de viagens Explore Mundo. A tela apresenta:
+Foi criada uma aplicacao responsiva para a agencia de viagens Explore Mundo. A experiencia apresenta:
 
-- uma imagem de destaque na parte superior
-- uma secao de titulo com nome do pacote, localizacao e avaliacao
-- uma linha de botoes para destinos, pacotes e contato
-- um bloco de texto descritivo da proposta turistica
+- banner interativo com destaque visual e CTA
+- secao de destinos com filtro por escolha do usuario
+- secao de pacotes com pesquisa textual e acao de reserva
+- area de avaliacoes com media de estrelas
+- formulario para envio de comentarios
+- secao de contato com botoes de acao
 
 ## Tecnologias utilizadas
 
@@ -46,6 +48,16 @@ Foi criada uma interface unica para a agencia de viagens Explore Mundo. A tela a
 6. Definicao da secao de texto com `Container` e `Text`.
 7. Adicao da imagem `images/lake.jpg` como ativo no `pubspec.yaml`.
 8. Organizacao final do corpo da aplicacao com `ListView`.
+9. Expansao da solucao para incluir interatividade, responsividade e compartilhamento de comentarios.
+
+## Recursos interativos adicionados
+
+- navegacao entre secoes da pagina
+- filtragem de destinos
+- pesquisa de pacotes
+- acao simulada de reserva
+- exibicao de media de avaliacoes
+- envio de comentarios pelo usuario
 
 ## Validacao executada
 

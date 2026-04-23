@@ -10,9 +10,12 @@ Projeto desenvolvido em Flutter como trabalho pratico da disciplina `DGT2812 Des
 ## O que foi implementado
 
 - Estrutura inicial com `MaterialApp`, `Scaffold` e `AppBar`
-- Secao de titulo com avaliacao por estrela
-- Secao de botoes com tres acoes
-- Secao de texto descritivo
+- Banner interativo com destaque visual e navegacao por acoes
+- Interface responsiva para mobile, tablet e desktop
+- Secao de destinos com filtro interativo
+- Secao de pacotes com pesquisa e botoes de reserva
+- Secao de avaliacoes com media de estrelas e comentarios
+- Formulario para envio de novos comentarios
 - Imagem de destaque carregada via `pubspec.yaml`
 - Organizacao final do corpo em `ListView`
 
@@ -35,6 +38,12 @@ Projeto desenvolvido em Flutter como trabalho pratico da disciplina `DGT2812 Des
 - `flutter analyze`
 - `flutter test`
 - `flutter build web`
+
+## Experiencia da aplicacao
+
+O app agora vai alem de uma tela estatica. A interface inclui navegacao entre secoes,
+filtro por destino, cards de pacotes, widgets de avaliacao e envio de comentarios,
+atendendo melhor ao resultado esperado descrito no enunciado da pratica.
 
 ## Entrega
 
